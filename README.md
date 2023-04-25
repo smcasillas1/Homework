@@ -16,4 +16,4 @@ Python Link: https://www.infoworld.com/article/3204016/what-is-python-powerful-i
 
 This image inspires me to embrace the unknown during the class and although it can be frigtening, I believe that there are 
 many opportunities to learn and grow. Also, I do feel like I'm lost but I hope to find my way throughout this class so that I can
-apply what I learn through the 
+apply what I learn at work.
