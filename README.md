@@ -1,12 +1,12 @@
 # Sam Casillas
 
-I enjoy reading and cycling.
+### I enjoy reading and cycling.
 
 My goals for this Data Analytics Program are:
-  To learn how I can use Python to make the data wrangling process easier.
-  To learn more about the data analysis process.
-  To learn how to use Python to conduct the various types of Analysis.
-  To learn how to use Python to complete webscraping.
+  1. To learn how I can use Python to make the data wrangling process easier.
+  2. To learn more about the data analysis process.
+  3. To learn how to use Python to conduct the various types of Analysis.
+  4. To learn how to use Python to complete webscraping.
   
 Python Link: https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html
 
