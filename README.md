@@ -1,6 +1,6 @@
 # Sam Casillas
 
-#I enjoy reading and cycling.
+I enjoy reading and cycling.
 
 My goals for this Data Analytics Program are:
   #To learn how I can use Python to make the data wrangling process easier.
