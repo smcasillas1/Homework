@@ -12,7 +12,7 @@
     1. What are the major types of crime that occurs in Ohio state by City/County?
     2. Are there certain types of crimes that are more common in small, medium, and large cities?
     3. What is the year-over-year trend of crime throughout the buckeye state?
-    4. Are there any surprises from the crime dataset?
+    4. Are there any surprises from the crime datasets?
 
 
 ## Audience
@@ -24,13 +24,13 @@
     I will need datasets from Criminal Justice related agencies either at the Ohio State or Federal Government levels which will have crime data by city for the years I would like to analyze. I have completed my search via an applicable Ohio state governmental website and found crime related datasets at:
 
         1. Crime data from Office of Criminal Justice Services:
-            a. Website of Source Files: https://dpsoibrspext.azurewebsites.net/?handler=Search
+            a. Website of Source Files: <https://dpsoibrspext.azurewebsites.net/?handler=Search>
             b. Actual .csv data files:
                 b1. OIBRS_Crime_Data_2020
                 b2. OIBRS_Crime_Data_2021
                 b3. OIBRS_Crime_Data_2022
         2. City and County Mapping Source:
-            a. https://www.whereig.com/usa/zipcodes/ohio.html
+            a. <https://www.whereig.com/usa/zipcodes/ohio.html>
 
 
     I selected the crime source data mentioned above because it comes directly from Ohio State government and it has each reported crime type that occurred by city. Also, I selected the City and County mapping source because it has a website table that includes the county to which each Ohio city belongs to. This will be helpful in assigning each City to it's respective County hereby providing additional level of reporting detail.
